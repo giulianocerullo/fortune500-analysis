@@ -1,6 +1,5 @@
 # Staying on Top: Growth, Profitability and Retention in the Fortune 500 (1955–2005)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giulianocerullo/fortune500-analysis/blob/main/fortune500.ipynb)
 [![View on nbviewer](https://img.shields.io/badge/view-nbviewer-orange)](https://nbviewer.org/github/giulianocerullo/fortune500-analysis/blob/main/fortune500.ipynb)
 
 Exploratory data analysis of 51 years of Fortune 500 rankings (25,500 company-years). We look at how big US companies grow, how profitable they are, and how often they're still on the list five years later.
