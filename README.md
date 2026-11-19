@@ -26,10 +26,10 @@ Exploratory data analysis of 51 years of Fortune 500 rankings (25,500 company-ye
 
 | Section | Content |
 |---|---|
-| Data cleaning | Converting `"N.A."` profits to missing values, detecting duplicate company names, sanity checks |
-| Feature engineering | Profit margin, size group, loss flag, year-over-year revenue growth (self-merge on t−1), five-year retention (merge on t+5) |
-| EDA | Distributions, outliers (±3σ), time trends, heatmaps by decade × size group |
-| Summary | Answers to the research question, managerial implications, limitations |
+| **Data cleaning** | Converting `"N.A."` profits to missing values, detecting duplicate company names, sanity checks |
+| **Feature engineering** | Profit margin, size group, loss flag, year-over-year revenue growth (self-merge on t−1), five-year retention (merge on t+5) |
+| **EDA** | Distributions, outliers (±3σ), time trends, heatmaps by decade × size group |
+| **Summary** | Answers to the research question, managerial implications, limitations |
 
 ## Tools
 
